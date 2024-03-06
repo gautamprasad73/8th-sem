@@ -1,0 +1,17 @@
+Problem Statement:
+Develop a linear regression model to predict diamond prices using key features such as carat, cut, color, clarity, depth, and table. The goal is to create an accurate model based on the 'diamonds' dataset, enabling reliable price estimation for diamonds.
+
+Aim:
+Create a robust linear regression model for diamond price prediction, including:
+
+Conducting Exploratory Data Analysis (EDA) to understand dataset characteristics.
+Visualizing feature correlations and distributions for insights.
+Developing a linear regression model with selected features.
+Evaluating model performance using metrics like MSE and R-squared.
+Providing concise visualizations to showcase feature importance and residuals.
+The outcome aims to deliver an effective tool for estimating diamond prices, supported by a clear understanding of model behavior and feature importance.
+
+
+
+
+
